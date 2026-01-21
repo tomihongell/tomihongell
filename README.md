@@ -1,19 +1,32 @@
-- 👋 Hi, I’m Tomi-Jaakko Hongell
-- 👀 I’m interested in IT, technology, food and sports.
-- 🌱 I’m currently learning more of Python and in endless road of DevOps career.
+# 👋 Hi, I’m Tomi — Systems Engineer / DevOps / Programmer
+## 👀 I’m interested in IT, technology, food and sports.
+```
+Everything is a system.
+```
+I build, automate, and maintain systems that are stable, intentional, and easy to understand. My background spans DevOps, cloud infrastructure, Linux environments, and automation — and I’m currently expanding into AI/ML‑related infrastructure.
+I’ve worked in Finland, Thailand, and Saudi Arabia, supporting teams across different cultures and environments. I value clarity, structure, and engineering that lasts.
 
-I have a Bachelor’s degree in Software Engineering and with over 7 years of software development and DevOps/SysAdmin experience.
+What I’m focusing on:
+* DevOps & automation
+* Cloud infrastructure (AWS, GCP)
+* Linux systems
+* Infrastructure as Code (Terraform, Ansible)
+* CI/CD pipelines
+* Python for automation
+* Early‑stage AI/ML infrastructure
 
-In my old positions I have been a team lead responsible for DevOps team and company servers and deployments, programmer for Android development and some small tasks with RoR, system administrator for Ubuntu/RedHat/CentOs servers, devops for planning and maintenancing deployments, Systems Specialist in CITC at Saudi Arabia,
-technical assistant at conferences, and game developer developing 3D platformer. 
+What I care about:
+* Systems that are simple, reliable, and maintainable
+* Automation that removes friction
+* Infrastructure that supports people, not the other way around
+* Clear communication and teamwork
+* Continuous learning
 
-Currently I’m looking for a company with a strong team culture and challenging tasks. My speciality is adapting to different situations and learning new skills quickly.
-I can help the companies to solve problems with my versatile experience.
-I’m skilled with Linux servers, Nginx and AWS. Familiar with Ansible, CI/CD, Docker, Git, JavaScript, Nagios, PostgreSQL, Python, RoR. 
+Where I’m heading:  
+I’m preparing to relocate to Vietnam, Thailand, Malaysia, or Japan and looking for roles in
+* DevOps
+* Cloud engineering
+* Platform engineering
+* AI/ML infrastructure
 
-[LinkedIn](https://linkedin.com/in/tomi-jaakko-hongell/) / [Twitter](https://twitter.com/FiHongell) / [eMail](mailto:hongell.fi@gmail.com)
-
-<!---
-tomihongell/tomihongell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you’re building meaningful systems, I’d love to connect.
