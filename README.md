@@ -116,11 +116,3 @@ AI, robotics, game development
 
 ---
 
-## 📫 Contact
-
-To avoid spam, my contact details are obfuscated on my website.
-
-**GitHub:** https://github.com/tomihongell  
-**Website:** https://hongell.fi  
-
----
